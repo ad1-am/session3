@@ -19,7 +19,7 @@ for(let i =0;i<produits.length;i++){
         Maximum=prix[i];
         NM=produits[i];
     }
-    if(stocks[i]>5){
+    if(stocks[i]<5){
         list[i]=produits[i];
     }
     
