@@ -206,13 +206,16 @@ li a{
 .cart{
     max-width: 31%;
     background-color: white;
+    border-radius: 5%;
     margin-bottom: 50px;
+    height: 178px;
+
 }
 .contenuCart{
     padding-left: 25px;
     padding-top: 15px;
-    line-height: 1.2;
-
+    line-height: 1.1;
+    
 }
 .contenuCart a{
     padding-top: 20px;
@@ -232,6 +235,7 @@ li a{
     color: blue;
     display: flex;
     align-items: flex-end;
+    
 }
 .lucide-lucide-smartphone-preview-icon{
     color:orange;
